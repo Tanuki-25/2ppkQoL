@@ -1,0 +1,8 @@
+{
+    "name": "2ppkQoL",
+    "creator": "Tanu_u",
+    "description": "Thingies",
+    "version": "1.0.25",
+    "entry": "index.js",
+    "requires": ["PogData"]
+  }
